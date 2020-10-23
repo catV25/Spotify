@@ -61,4 +61,12 @@
         android:orientation="vertical"
         app:layout_constraintGuide_begin="273dp" />
 
+    <ImageView
+        android:id="@+id/coverImage;"
+        android:layout_width="256dp"
+        android:layout_height="363dp"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="105dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
